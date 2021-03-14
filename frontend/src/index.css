@@ -193,6 +193,10 @@ img.large {
   color: #a02020;
   background-color: #ffe0e0;
 }
+.alert-success {
+  color: #328132;
+  background-color: #caf1aa;
+}
 /* Form */
 .form {
   max-width: 60rem;
